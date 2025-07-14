@@ -15,7 +15,7 @@ const Experience = () => {
         "Enhanced user engagement through personalized health assessments across physical, mental, and nutritional domains, integrating user authentication and OTP-based password recovery."
       ],
       certificate: "../../public/image1.jpg",
-      certificatePdf: "../../public/certificate1.pdf",
+      certificatePdf: "https://drive.google.com/file/d/1slIAD7OFOsleMZsFy33gkpZK_MB4EQ9h/view?usp=sharing",
     },
     
   ];

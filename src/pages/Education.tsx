@@ -13,7 +13,7 @@ const Education = () => {
       description: "During my time at IIITG, I have built a strong foundation in computer science, focusing on software development, problem-solving, and real-world applications. Engaging in hands-on projects, internships, and coding challenges has helped me enhance my technical and analytical skills. This experience prepares me for a future in software development, equipping me with the ability to create scalable and efficient solutions.",
       subjects: ["DSA", "OOPs", "DBMS", "AI", "ML", "OS", "Networking"],
       image: "../../public/college1.png",
-      resultPdf: "../../public/college_result.pdf",
+      resultPdf: "https://drive.google.com/file/d/1ogIkT_7SmTiZBBC8cBMN2ZnIl5o3c1Av/view?usp=sharing",
     },
     {
       degree: "Higher Secondary Education (CBSE)",
@@ -24,7 +24,7 @@ const Education = () => {
       description: "My higher secondary education laid the foundation for my technical journey, strengthening my analytical thinking and problem-solving abilities. The strong emphasis on mathematics and computer science has been instrumental in shaping my passion for software development, enabling me to approach complex technical challenges with confidence.",
       subjects: ["Physics", "Chemistry", "Mathematics", "Computer Science"],
       image: "../../public/school2.jpg",
-      resultPdf: "../../public/12th_Marksheet.pdf",
+      resultPdf: "https://drive.google.com/file/d/1vhORPwv6_yoOIaEJeW4sTVUVO75qkQy8/view?usp=sharing",
     },
     {
       degree: " Secondary Education (CBSE)",
@@ -35,7 +35,7 @@ const Education = () => {
       description: "My secondary education was a pivotal phase that nurtured my curiosity, discipline, and love for learning. It provided a well-rounded academic base, with a strong emphasis on science and mathematics, which played a crucial role in developing my logical reasoning and analytical skills — laying the groundwork for my future in computer science and engineering.",
       subjects: ["Mathematics", "Science", "English", "Social Science", "Hindi"],
       image: "../../public/school1.jpg",
-      resultPdf: "../../public/10th_Marksheet.pdf",
+      resultPdf: "https://drive.google.com/file/d/1g7ItTU-Btu83UBWf-heK0yrkkyVXwytG/view?usp=sharing",
     },
   ];
 

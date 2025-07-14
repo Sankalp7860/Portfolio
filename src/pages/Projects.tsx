@@ -10,7 +10,7 @@ const Projects = () => {
       image: "../../public/projects/image2.png",
       technologies: ["React Native", "Expo", "Tailwind CSS"],
       liveLink: "",
-      watchDemo: "../../public/projects/Recreo_Demo.MP4",
+      watchDemo: "https://drive.google.com/file/d/13ZY357nKGq6DYsoDj2G-9OhK8tg5oga7/view?usp=sharing",
       codeLink: "https://github.com/Sankalp7860/Project-07-Recreo",
     },
 
@@ -21,7 +21,7 @@ const Projects = () => {
       image: "../../public/projects/image3.png",
       technologies: [  "React.js","OpenCV", "DeepFace","React-Webcam","Tailwind CSS"],
       liveLink: "",
-      watchDemo:"../../public/projects/Moodtunes_Demo.MP4",
+      watchDemo:"https://drive.google.com/file/d/1-D09BTTQb2UmyDw_A61FT2eNsJD2TLsH/view?usp=sharing",
       codeLink: "https://github.com/Sankalp7860/Project-05-MoodTunes",
     },
 
@@ -31,7 +31,7 @@ const Projects = () => {
       image: "../../public/projects/image4.png",
       technologies: ["React.js", "Node.js","Express.js","MongoDB","Tailwind CSS","Nodemailer"],
       liveLink: "",
-      watchDemo: "../../public/projects/Health_Demo.mp4",
+      watchDemo: "https://drive.google.com/file/d/17QmQ6bYT4yN815a_OEY0LsrzeqpbXtzd/view?usp=sharing",
       codeLink: "https://github.com/Sankalp7860/Project-03-HealthGuardPro",
     },
     {
