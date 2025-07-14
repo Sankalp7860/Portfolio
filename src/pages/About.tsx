@@ -45,7 +45,7 @@ const About = () => {
                 alt="Profile"
                 className="w-full h-full object-cover"
                 onError={(e) => {
-                  e.currentTarget.src = "../../public/profile.PNG";
+                  e.currentTarget.src = "https://res.cloudinary.com/du8rtdsqg/image/upload/v1752486007/Portfolio/profile_a1dips.png";
                 }}
               />
             </div>

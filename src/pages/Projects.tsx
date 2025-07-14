@@ -7,7 +7,7 @@ const Projects = () => {
     {
       title: "Recreo",
       description: "Recreo is a cross-platform mobile app that helps users discover, plan, and manage recreation and wellness activities. It features an intuitive interface and provides curated experiences to promote well-being and a balanced lifestyle.",
-      image: "../../public/projects/image2.png",
+      image: "https://res.cloudinary.com/du8rtdsqg/image/upload/v1752486026/Portfolio/image2_km8mwj.png",
       technologies: ["React Native", "Expo", "Tailwind CSS"],
       liveLink: "",
       watchDemo: "https://drive.google.com/file/d/13ZY357nKGq6DYsoDj2G-9OhK8tg5oga7/view?usp=sharing",
@@ -18,7 +18,7 @@ const Projects = () => {
     {
       title: "MoodTunes",
       description: "AI-based music player that detects emotions in real time, plays mood-matching songs via YouTube, and offers public/private rooms for social jamming.",
-      image: "../../public/projects/image3.png",
+      image: "https://res.cloudinary.com/du8rtdsqg/image/upload/v1752486028/Portfolio/image3_b3yalk.png",
       technologies: [  "React.js","OpenCV", "DeepFace","React-Webcam","Tailwind CSS"],
       liveLink: "",
       watchDemo:"https://drive.google.com/file/d/1-D09BTTQb2UmyDw_A61FT2eNsJD2TLsH/view?usp=sharing",
@@ -28,7 +28,7 @@ const Projects = () => {
     {
       title: "HealthGuardPro",
       description: "HealthGuardPro is a full-stack wellness platform offering personalized health insights through quizzes, real-time scoring, secure login, and a gamified leaderboard.",
-      image: "../../public/projects/image4.png",
+      image: "https://res.cloudinary.com/du8rtdsqg/image/upload/v1752486029/Portfolio/image4_piud0c.png",
       technologies: ["React.js", "Node.js","Express.js","MongoDB","Tailwind CSS","Nodemailer"],
       liveLink: "",
       watchDemo: "https://drive.google.com/file/d/17QmQ6bYT4yN815a_OEY0LsrzeqpbXtzd/view?usp=sharing",
@@ -37,7 +37,7 @@ const Projects = () => {
     {
       title: "CruiseUp",
       description: "CruiseUp is a full-stack car rental platform enabling users to seamlessly search, rent, and manage vehicles. It includes secure authentication, real-time availability, and efficient backend integration.",
-      image: "../../public/projects/image5.png",
+      image: "https://res.cloudinary.com/du8rtdsqg/image/upload/v1752486028/Portfolio/image5_g7r0tp.png",
       technologies: ["React.js","Node.js","Express.js","MySQL","Tailwind CSS","Cloudinary"],
       liveLink: "https://cruiseup.netlify.app/",
       watchDemo: "",
@@ -47,7 +47,7 @@ const Projects = () => {
     {
       title: "Hotel Review Platform",
       description: "Built a hotel review web app with geolocation search, secure authentication, and optimized image handling.",
-      image: "../../public/projects/image1.png",
+      image: "https://res.cloudinary.com/du8rtdsqg/image/upload/v1752486039/Portfolio/image1_lwqdyj.png",
       technologies: ["HTML", "CSS", "JavaScript", "Bootstrap", "MongoDB", "Node.js", "EJS"],
       liveLink: "https://primelodging.onrender.com/listings",
       watchDemo: "",

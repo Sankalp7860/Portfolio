@@ -14,7 +14,7 @@ const Experience = () => {
         "Developed and deployed a secure, responsive full-stack health monitoring web app with real-time score tracking, dynamic quiz cards, and leaderboard functionality using React.js and Node.js.",
         "Enhanced user engagement through personalized health assessments across physical, mental, and nutritional domains, integrating user authentication and OTP-based password recovery."
       ],
-      certificate: "../../public/image1.jpg",
+      certificate: "https://res.cloudinary.com/du8rtdsqg/image/upload/v1752486004/Portfolio/image1_zev7hm.avif",
       certificatePdf: "https://drive.google.com/file/d/1slIAD7OFOsleMZsFy33gkpZK_MB4EQ9h/view?usp=sharing",
     },
     
