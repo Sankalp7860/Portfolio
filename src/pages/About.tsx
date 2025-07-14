@@ -41,7 +41,7 @@ const About = () => {
           <div className="flex justify-center lg:justify-start">
             <div className="w-96 h-96 rounded-2xl bg-gradient-card border border-border overflow-hidden hover:scale-105 transition-transform duration-300">
               <img
-                src="/lovable-uploads/profile-photo.jpg"
+                src="https://res.cloudinary.com/du8rtdsqg/image/upload/v1752486007/Portfolio/profile_a1dips.png"
                 alt="Profile"
                 className="w-full h-full object-cover"
                 onError={(e) => {
